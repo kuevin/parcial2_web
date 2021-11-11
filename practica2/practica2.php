@@ -23,5 +23,6 @@
     <?php } else {?>
     	<h4 style="color: <?php  echo $color[$numcolor]; ?>">Titulo 4 de la pagina</h4>
     <?php } ?>
+    <h1>Kevin Alejandro Garcia Inzunza </h1>
 </body>
 </html>
