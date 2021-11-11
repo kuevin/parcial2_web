@@ -1,0 +1,34 @@
+body{
+  background: url(desc5.jpg);
+  background-position: center;
+
+
+}
+h1{
+  font-style: all; color: black;
+}
+label{
+  font-style: all; color:black;
+}
+input{
+ width: 50%;
+ height: 50%;
+ background: #8892F1;
+ color: black;
+ border: none;
+
+}
+input.rad{
+  width: 20px;
+ height: 20px;
+
+}
+input.check{
+  width: 30px;
+ height: 30px;
+
+}
+section{
+  background: url(desc4.jpg);
+
+}
